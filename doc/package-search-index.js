@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"controller"},{"l":"model"},{"l":"model.extension"},{"l":"model.rules"},{"l":"model.trophy"},{"l":"observer"},{"l":"strategy"},{"l":"view"},{"l":"view.gui"}];updateSearchResults();
